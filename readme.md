@@ -8,6 +8,7 @@
 ## Techs 
 * [ ] React
 * [ ] Typescript
+* [ ] Javascript
 * [ ] Sass
 
 ## Author
